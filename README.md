@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there my name is Richard Benjamin Allen, but online I generally go by Ben👋
+I am a software engineer at the Bodleian Libraries at the University of Oxford, with over 10 years experience with programming and scientific research.
+Since 2018 I have also been the Executive Director and principal consultant for the first lean Oxford University Spinout Company PalaeoPi Ltd. Principal consultant meaning I am the one developing our core technology and providing consultancy to clients on behalf of the company.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeebBenjamin"/>
 
 <!--
 **BeebBenjamin/BeebBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
